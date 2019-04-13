@@ -1,0 +1,289 @@
+.text1 {
+    color: #34495e!important;
+}
+.text2 {
+    color: #9b59b6!important;
+}
+.inline-block {
+    display: inline-block;
+}
+.inline-block2 {
+    display: inline-block!important;
+}
+
+.thead-asign {
+    background-color: #27ae60!important;
+}
+
+.mb1 {
+    margin-bottom: 1em!important;
+}
+.i-tool {
+    font-size: 1.5em;
+}
+.obrigado {
+    color: red;
+}
+.clead-icons {
+    font-size: 2em;
+}
+
+.ml1 {
+   margin-left: 1em; 
+}
+.mt1 {
+    margin-top: .4em;
+}
+.mt2 {
+    margin-top: 2.1em;
+}
+
+.mt3 {
+    margin-top: 1.8em;
+}
+.box-shadow {
+    box-shadow: 3px 3px lightgray;
+}
+
+.box-shadow-widget {
+    box-shadow: 2px 2px lightgray;
+}
+
+.btn-actions {
+    margin-left: 0.5em;
+}
+
+.icon-actions {
+    font-size: 1.2em;
+    color: white;
+}
+
+.icon-size {
+    font-size: 1.6em;
+}
+
+.login-title {
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.login-logo {
+    padding: 0;
+    width: 11.5em;
+    margin: 0;
+}
+
+.login-text {
+    font-size: 1em;
+    color: #9f9f9f;
+}
+
+.login-input {
+    max-height: 2.5em;
+}
+
+.black {
+    color: black;
+}
+
+.centrado {
+    margin-top: 3em;
+}
+
+.login-card {
+    width: 17em;
+    height: 14em;
+}
+
+.medio-margin {
+    margin-bottom: .25em!important;
+}
+.medio-margin2 {
+    margin-right: .5em!important;
+}
+
+.links {
+    text-decoration-line: none !important;
+}
+.float-left{
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.margin {
+    margin-left: 0.5em;
+}
+
+.margin2 {
+    margin-left: 1em;
+}
+.margin-tabs {
+    margin-right: 4em;
+}
+
+.widget {
+    width: 12.5em;
+    height: 5.5em;
+    padding: 0;
+}
+
+.widget2 {
+    width: 16.5em;
+    height: 5.5em;
+    padding: 0;
+}
+
+.widget-blue {
+    background: rgb(94, 188, 232) !important;
+}
+
+.widget-red {
+    background: #d73925 !important;
+}
+
+.widget-yellow {
+    background: orange !important;
+}
+
+.widget-green {
+    background: green !important;
+}
+
+.widget-purple {
+    background: purple !important;
+}
+
+.text-withe {
+    color: white !important;
+}
+
+.widget-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+.widget-text {
+    font-size: 0.9em;
+}
+
+.logo {
+    width: 20em;
+    height: 7em;
+    max-width: 20em;
+    max-height: 7em;
+}
+
+.newlogo {
+    width: 13em;
+    height: 10em;
+    max-width: 13em;
+    max-height: 10em;
+}
+
+.company-logo {
+    width: 15em;
+    height: 10em;
+    max-width: 15em;
+    max-height: 10em;
+}
+.tab-links {
+    cursor: pointer;
+}
+
+.app-logo {
+    width: 6.2em;
+    height: 2.8em;
+}
+
+#Table_length {
+    display: inline-block;
+    width: 50%;
+}
+#Table_filter {
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+}
+
+.dataTables_paginate {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+}
+
+span a.paginate_button {
+    text-decoration: none;
+}
+
+.dataTables_paginate a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.paginate_button.current {
+    z-index: 1;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.paginate_button {
+    position: relative;
+    display: inline-block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.font-pill {
+    font-size: 18px;
+}
+
+a.dXzCJS {
+    background-color: #f5f5f5 !important;
+}
+a.dXzCJS:hover {
+    background-color: #f5f5f5 !important;
+}
+a.dXzCJS:focus {
+    background-color: #f5f5f5 !important;
+}
+.TitleAdmin {
+    color: black !important;
+}
+
+/*paging_simple_numbers*/
+
+/* Spin Loader */
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 100px;
+    height: 100px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+/* Spin Loader */
